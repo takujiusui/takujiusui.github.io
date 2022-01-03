@@ -1,2 +1,2 @@
 # takujiusui.github.io
-personal research site
+repo for academic website!

@@ -30,7 +30,7 @@ Whilst contrasting theoretical predictions exist for how competition should affe
 changing environments, we have yet to: (i) experimentally test the mechanisms through
 which competition promotes or hinders rescue; and (ii) apply this theory for understanding
 the persistence of trailing-edge populations facing the simultaneous stresses of climate
-change and increased competition. Using experimental evolution of duckweed communities across a spatial landscape, <i>my project aims to empirically test whether and how competition promotes or hinders the rescue of trailing-edge populations</i>.
+change and increased competition. Using experimental evolution of duckweed communities across a spatial landscape, <i>my projects here aim to empirically test whether and how competition promotes or hinders the rescue of trailing-edge populations</i>.
 
 ### Evolution and coexistence
 The evolutionary trajectory of coexistence - Collaborating with the Germain Lab.

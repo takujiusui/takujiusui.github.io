@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 ![microduck](images/duck-micro.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey"><i>Spirodela polyrhiza<i>, photo by  work-learn Emma Menchions</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey"><i>Spirodela polyrhiza</i>, photo by  work-learn Emma Menchions</p></div>
 
 ### Eco-evolutionary dynamics of range expansion
 During my PhD, I have been establishing a multi-species experimental evolution arena to investigate how eco-evolutionary feedbacks modulate species' range dynamics. Using the freshwater angiosperm duckweed as a model organism, I am currently investigating: (1) the dynamics of population spread across spatiotemporally heterogeneous environments; (2) how eco-evolutionary feedbacks between competition and niche evolution affect species' range dynamics; and (3) the evolutionary limits to species' range.

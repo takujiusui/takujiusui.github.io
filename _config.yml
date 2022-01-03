@@ -1,7 +1,7 @@
 # Descriptions
 title: Takuji Usui
 author:
-  name: PhD Candidate, University of British Columbia
+  name: Biodiversity Research Centre, University of British Columbia
   email: usuitakuji [at] gmail.com
 description:
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -32,7 +32,7 @@ exclude:
 # Header nav
 navigation_header:
 - title: About
-  url: /
+  url: /about/
 - title: Research
   url: /research/
 - title: Publication

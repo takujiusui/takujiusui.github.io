@@ -8,13 +8,13 @@ description:
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
+#minima:
  #date_format: "%b %-d, %Y"
 
-   # generate social links in footer
-   social_links:
-     twitter: usui_takuji
-     github:  takujiusui
+# generate social links in footer
+social_links:
+  twitter: usui_takuji
+  github:  takujiusui
 
 # Build settings
 theme: minima

@@ -32,7 +32,7 @@ exclude:
 # Header nav
 navigation_header:
 - title: About
-  url: /about/
+  url: /
 - title: Research
   url: /research/
 - title: Publication

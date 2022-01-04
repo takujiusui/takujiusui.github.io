@@ -5,7 +5,7 @@ order: 2
 ---
 
 ![system](images/dw-system-wide.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Population spread of <i> Lemna minor</i></p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental population spread of the common duckweed,<i> Lemna minor</i></p></div>
 
 ### Eco-evolutionary dynamics of range expansion
 Predicting the dynamics of biological invasions and colonizations require an understanding of the eco-evolutionary drivers that influence population spread. Simple models of range expansions state the importance of both demography and dispersal in governing the speed of population spread. However, more recent theory suggest that these processes are further influenced by a suite of other factors including rapid evolution that occurs during population spread, as well as selection from spatially heterogeneous landscapes. <i>We thus require empirical explorations that test predictions of how evolution influences, and is influenced by, range expansions across ecologically complex landscapes.</i>
@@ -15,7 +15,7 @@ To explore these ideas, during my PhD, I have established replicated, experiment
 In a recent working group, we also assessed the deterministic and stochastic outcomes of these eco-evolutionary dynamics on range expansion, and proposed a framework for understanding how these feedbacks might modulate both the mean and predictability of range expansions ([Miller et al. 2020 Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139))
 
 ![system](images/dw-collage.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities. Right-most photo shows a local sampling site in Vancouver</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right-most photo shows a local sampling site in Vancouver, BC, Canada</p></div>
 
 ### Competition and evolutionary rescue at the range-edge
 Climate induced shifts in species distributions are altering the strength of biotic

@@ -3,8 +3,6 @@ layout: page
 title: Research
 order: 2
 ---
-![microduck](images/duck-micro.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>
 
 ### Eco-evolutionary dynamics of range expansion
 Predicting the dynamics of biological invasions and colonizations require an understanding of the eco-evolutionary drivers that influence population spread. Simple models of range expansions state the importance of both demography and dispersal in governing the speed of population spread. However, more recent theory suggest that these processes are further influenced by a suite of other factors including rapid evolution that occurs during population spread, as well as selection from spatially heterogeneous landscapes. <i>We thus require empirical explorations that test predictions of how evolution influences, and is influenced by, range expansions across ecologically complex landscapes.</i>
@@ -20,6 +18,9 @@ at their leading-edge to track their climatic niche, they may exert greater comp
 on resident species at their trailing-edge for whom the area is climatically deteriorating. Such competition will affect the degree to which resident populations can persist through demographic and evolutionary responses (i.e., rescue) to climate change. 
 
 How does competition affect adaptation to changing environments? And how does this apply in the context of range-edge populations experiencing the simultaneous stresses of climate change and increased competition?<i> Using experimental evolution of duckweed communities across a spatio-temporally changing landscape, my projects here aim to empirically quantify the effects of competition on the rescue of trailing-edge populations</i>.
+
+![microduck](images/duck-micro.jpg)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>
 
 ### Evolution and coexistence
 How do mechanisms of species coexistence evolve across micro- and macro-evolutionary scales, and in turn, how does this influence the persistence of communities? In collaboration with the [Germain Lab at UBC](https://germainlab.weebly.com/), we are using duckweeds to empirically test the micro-evolutionary trajectory of coexistence. In a recent working group, we also produced a perspective piece investigating, at the macroevolutionary scale, the role of coexistence mechanisms in the origin and maintenance of new species ([Germain et al. 2020](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)).

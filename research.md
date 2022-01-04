@@ -31,10 +31,7 @@ The evolutionary trajectory of coexistence - Collaborating with the Germain Lab.
 
 
 
-### Meta-analyses and scientific replicability
-I continue to be interested in the power of meta- and comparative analyses.
+### Meta-analyses in ecology and evolution
+Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching patterns and generating new hypotheses. During my undergraduate, I conducted a phylogenetic meta-analysis to investigate if ecological and geographical drivers could explain some of the variability seen in changes in spring migratory phenology of birds with climate change [Usui et al. 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612). We found that life-history traits such as migration distance was able to explain some of this variation, as well as a phylogenenetic signal in phenological response, although substantial species and spatial variation in phenology remained.
 
-(1) Conducting a comparative analysis of species' range limits.
-(2) During my Honours, I conducted a phylogenetic meta-analysis on spring migratory phenology (Usui...)
-
-I also have an interest in reproducible science. Conducting a meta-analysis on improving generalizability.
+More recently, I have been interested in using meta-analysis continue to have an interest in utilizing meta-analyses, and have recently also have an interest in reproducible science. Conducting a meta-analysis on improving generalizability.

@@ -5,7 +5,7 @@ order: 2
 ---
 
 ![system](images/system.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Population spread of <i> Lemna minor.</i></p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Population spread of <i> Lemna minor</i></p></div>
 
 ### Eco-evolutionary dynamics of range expansion
 Predicting the dynamics of biological invasions and colonizations require an understanding of the eco-evolutionary drivers that influence population spread. Simple models of range expansions state the importance of both demography and dispersal in governing the speed of population spread. However, more recent theory suggest that these processes are further influenced by a suite of other factors including rapid evolution that occurs during population spread, as well as selection from spatially heterogeneous landscapes. <i>We thus require empirical explorations that test predictions of how evolution influences, and is influenced by, range expansions across ecologically complex landscapes.</i>

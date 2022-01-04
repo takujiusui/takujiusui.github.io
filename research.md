@@ -4,21 +4,14 @@ title: Research
 order: 2
 ---
 ![microduck](images/duck-micro.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i>, Photo by Emma Menchions</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>
 
 ### Eco-evolutionary dynamics of range expansion
-Recent evidence from empirical and theoretical work suggest a key role of rapid evolution in our ability to predict species' range dynamics. 
+Predicting the dynamics of biological invasions and colonizations require an understanding of the eco-evolutionary drivers that influence population spread. Simple models of range expansions state the importance of both demography and dispersal in governing the speed of population spread. However, more recent theory suggest that these processes are further influenced by a suite of other factors including rapid evolution that occurs during population spread, as well as selection from spatially heterogeneous landscapes. <i>We thus require empirical explorations that test predictions of how evolution influences, and is influenced by, range expansions across ecologically complex landscapes.</i>
 
-The role of environmental heterogeneity on eco-evolutionary dynamics?
+To explore these ideas, during my PhD, I have established replicated, experimental ranges in the greenhouse using the freshwater angiosperm duckweed as a model organism. Spatio-temporally controlled temperatures within the landscape allow populations to experience selection from an underlying environmental gradient, and both ecological and evolutionary changes are tracked in real-time as replicated populations spread across space.
 
-During my PhD, I have established single- and multi-species experimental evolution systems using the freshwater angiosperm duckweed as a model organism.
-Replicated, experimental range expansions in the greenhouse
-
-I am currently investigating: (1) the dynamics of population spread across spatiotemporally heterogeneous environments
-
-
-In a recent working group, we also synthesized both the deterministic and stochastic outcomes of these eco-evolutionary feedbacks, and proposed a framework for understanding how these feedbacks might modulate both the mean and predictability of range expansions ([Miller et al. 2020 Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139))
-
+In a recent working group, we also assessed the deterministic and stochastic outcomes of these eco-evolutionary dynamics on range expansion, and proposed a framework for understanding how these feedbacks might modulate both the mean and predictability of range expansions ([Miller et al. 2020 Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139))
 
 ### Competition and evolutionary rescue at the range-edge
 Climate induced shifts in species distributions are altering the strength of biotic

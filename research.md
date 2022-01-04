@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 
-![system](images/dw-system-wide.jpg)
+![system](images/dw-system-wide-bw.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental population spread of the common duckweed,<i> Lemna minor</i></p></div>
 
 ### Eco-evolutionary dynamics of range expansion

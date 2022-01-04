@@ -15,7 +15,7 @@ To explore these ideas, during my PhD, I have established replicated, experiment
 In a recent working group, we also assessed the deterministic and stochastic outcomes of these eco-evolutionary dynamics on range expansion, and proposed a framework for understanding how these feedbacks might modulate both the mean and predictability of range expansions ([Miller et al. 2020 Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139))
 
 ![system](images/dw-collage.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right-most photo shows a local sampling site in Vancouver, BC, Canada</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right photo shows a local sampling site in Vancouver, BC</p></div>
 
 ### Competition and evolutionary rescue at the range-edge
 Climate induced shifts in species distributions are altering the strength of biotic
@@ -29,7 +29,7 @@ How does competition affect adaptation to changing environments? And how does th
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>
 
 ### Evolution and coexistence
-How do mechanisms of species coexistence evolve across micro- and macro-evolutionary scales, and in turn, how does this influence the persistence of communities? In collaboration with the [Germain Lab at UBC](https://germainlab.weebly.com/), we are using duckweeds to empirically test the micro-evolutionary trajectory of coexistence. In a recent working group, we also produced a perspective piece investigating, at the macroevolutionary scale, the role of coexistence mechanisms in the origin and maintenance of new species ([Germain et al. 2020](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)).
+How do mechanisms of species coexistence evolve across micro- and macro-evolutionary scales, and in turn, how does this influence the persistence of communities? In collaboration with the [Germain Lab at UBC](https://germainlab.weebly.com/), we are using duckweeds to empirically test the micro-evolutionary trajectory of coexistence. In a recent working group, we also produced a perspective piece investigating, at the macroevolutionary scale, the role of coexistence mechanisms in the origin and maintenance of new species ([Germain et al. 2020 Trends in Ecology & Evolution](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)).
 
 ### Meta-analyses and scientific replicability
 Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching patterns and generating new hypotheses. During my undergraduate, I conducted a phylogenetic meta-analysis to investigate if ecological and geographical drivers could explain some of the variability seen in changes in spring migratory phenology of birds with climate change ([Usui et al. 2017 Journal of Animal Ecology](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)). We found that life-history traits such as migration distance was able to explain some of this variation. We also found a phylogenenetic signal in phenological response, although substantial species and spatial variation in phenology remained.

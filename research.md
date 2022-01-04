@@ -14,6 +14,9 @@ To explore these ideas, during my PhD, I have established replicated, experiment
 
 In a recent working group, we also assessed the deterministic and stochastic outcomes of these eco-evolutionary dynamics on range expansion, and proposed a framework for understanding how these feedbacks might modulate both the mean and predictability of range expansions ([Miller et al. 2020 Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139))
 
+![system](images/dw-collage.jpg)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities. Right-most photo shows a local sampling site in Vancouver</p></div>
+
 ### Competition and evolutionary rescue at the range-edge
 Climate induced shifts in species distributions are altering the strength of biotic
 interactions at species’ range-edges. As immigrant species colonize newly suitable areas

@@ -19,14 +19,10 @@ interactions at species’ range-edges. As immigrant species colonize newly suit
 at their leading-edge to track their climatic niche, they may exert greater competitive effects
 on resident species at their trailing-edge for whom the area is climatically deteriorating. Such competition will affect the degree to which resident populations can persist through demographic and evolutionary responses (i.e., rescue) to climate change. 
 
-<i>How does competition affect adaptation to changing environments? And how does this apply in the context of range-edge populations experiencing the simultaneous stresses of climate change and increased competition?</i> Using experimental evolution of duckweed communities across a spatio-temporally changing landscape, my projects here aim to empirically quantify the effects of competition on the rescue of trailing-edge populations.
+How does competition affect adaptation to changing environments? And how does this apply in the context of range-edge populations experiencing the simultaneous stresses of climate change and increased competition?<i> Using experimental evolution of duckweed communities across a spatio-temporally changing landscape, my projects here aim to empirically quantify the effects of competition on the rescue of trailing-edge populations</i>.
 
 ### Evolution and coexistence
-How does coexistence evolve? The evolutionary trajectory of coexistence - In a collaboration with the [Germain Lab at UBC](https://germainlab.weebly.com/).
-
-In a recent working group, we also produced a perspective piece investigating, at the macroevolutionary scale, the role of coexistence mechanisms in the origin and maintenance of new species ([Germain et al. 2020](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)).
-
-
+How do mechanisms of species coexistence evolve across micro- and macro-evolutionary scales, and in turn, how does this influence the persistence of communities? In collaboration with the [Germain Lab at UBC](https://germainlab.weebly.com/), we are using duckweeds to empirically test the micro-evolutionary trajectory of coexistence. In a recent working group, we also produced a perspective piece investigating, at the macroevolutionary scale, the role of coexistence mechanisms in the origin and maintenance of new species ([Germain et al. 2020](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)).
 
 ### Meta-analyses and scientific replicability
 Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching patterns and generating new hypotheses. During my undergraduate, I conducted a phylogenetic meta-analysis to investigate if ecological and geographical drivers could explain some of the variability seen in changes in spring migratory phenology of birds with climate change ([Usui et al. 2017 Journal of Animal Ecology](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)). We found that life-history traits such as migration distance was able to explain some of this variation. We also found a phylogenenetic signal in phenological response, although substantial species and spatial variation in phenology remained.

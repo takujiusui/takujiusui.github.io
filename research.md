@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 
-![system](images/dw-system.jpg)
+![system](images/dw-system-wide.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Population spread of <i> Lemna minor</i></p></div>
 
 ### Eco-evolutionary dynamics of range expansion

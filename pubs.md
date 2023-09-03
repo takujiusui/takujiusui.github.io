@@ -4,18 +4,20 @@ title: Publications
 order: 3
 ---
 
-My latest publications are listed below and in my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
+My latest publications can be found in my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
 ### Published
 
-**Usui, T.**, Senior, A., MacLeod, M, McCann, S, & Nakagawa, S. (2021) Meta-analysis of variation suggests that embracing heterogeneity improves both replicability and generalizability in preclinical research. PloS Biology, 19(5), e3001009. [doi:10.1371/journal.pbio.3001009](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001009)
+**Usui, T.**, Lerner, D., Angert, A.L., Eckert, I., Garroway, C.J., Hargreaves, A.L., Lancaster, L.T., Lessard, J-P., Riva, F., Schmidt, C., Van der Burg, K. & Marshall, K. (2023) The evolution of plasticity at geographic range edges. Trends in Ecology & Evolution, 38, 831-842. [doi:10.1016/j.tree.2023.04.004](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8)
 
-Bontrager, M., **Usui, T.**, Lee-Yaw, J.A., Anstett, D.N., Branch, H.A., Hargreaves, A.L., Angert, A.L. (2021) Adaptation across geographic ranges is consistent with strong selection in marginal climates and legacies of range expansion. Evolution, 75, 1316-1333. [doi:10.1111/evo.14231](https://onlinelibrary.wiley.com/doi/10.1111/evo.14231)
+**Usui, T.**, Senior, A., MacLeod, M., McCann, S. & Nakagawa, S. (2021) Meta-analysis of variation suggests that embracing heterogeneity improves both replicability and generalizability in preclinical research. PloS Biology, 19(5), e3001009. [doi:10.1371/journal.pbio.3001009](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001009)
 
-Germain, R.M., Angert, A.L., Bassar, R.D., Henao Diaz, F.L., Hart, S.P., Otto, S.P., Rolland, J., Sakarchi, J., Schluter, D., Siepielski, A.M., Turcotte, M.M., **Usui, T.**, Waters, M. (2020) On the origin of coexisting species. Trends in Ecology & Evolution, 36, 284-283. [doi:10.1016/j.tree.2020.11.006](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)
+Bontrager, M., **Usui, T.**, Lee-Yaw, J.A., Anstett, D.N., Branch, H.A., Hargreaves, A.L. & Angert, A.L. (2021) Adaptation across geographic ranges is consistent with strong selection in marginal climates and legacies of range expansion. Evolution, 75, 1316-1333. [doi:10.1111/evo.14231](https://onlinelibrary.wiley.com/doi/10.1111/evo.14231)
 
-Miller, T.E.X., Angert, A.L.A., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szücs, M., Tabares, O., **Usui, T.**, Weiss-Lehman, C., Williams, J.L. (2020) Eco-evolutionary dynamics of range expansion. Ecology, 101, e03139. [doi:10.1002/ecy.3139](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139)
+Germain, R.M., Angert, A.L., Bassar, R.D., Henao Diaz, F.L., Hart, S.P., Otto, S.P., Rolland, J., Sakarchi, J., Schluter, D., Siepielski, A.M., Turcotte, M.M., **Usui, T.** & Waters, M. (2020) On the origin of coexisting species. Trends in Ecology & Evolution, 36, 284-283. [doi:10.1016/j.tree.2020.11.006](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6)
 
-Baur, J., Laurentino, T.G., **Usui, T.**, Eichhorn M. (2019) Liana abundance and relationships to sapling and tree hosts in an East African primary forest. *African Journal of Ecology*, 57, 130-136. [doi:10.1111/aje.12584](https://onlinelibrary.wiley.com/doi/full/10.1111/aje.12584)
+Miller, T.E.X., Angert, A.L.A., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szücs, M., Tabares, O., **Usui, T.**, Weiss-Lehman, C. & Williams, J.L. (2020) Eco-evolutionary dynamics of range expansion. Ecology, 101, e03139. [doi:10.1002/ecy.3139](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139)
+
+Baur, J., Laurentino, T.G., **Usui, T.** & Eichhorn M. (2019) Liana abundance and relationships to sapling and tree hosts in an East African primary forest. *African Journal of Ecology*, 57, 130-136. [doi:10.1111/aje.12584](https://onlinelibrary.wiley.com/doi/full/10.1111/aje.12584)
 
 **Usui, T.** & Angert, A.L.A. (2018) *Species Ranges.* Elsevier Reference Module in Life Sciences.
 

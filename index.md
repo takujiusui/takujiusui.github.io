@@ -13,4 +13,4 @@ I am currently a Faculty of Arts & Sciences Postdoctoral Fellow with [Megan Fred
 
 &nbsp;
 
-See [here](https://github.com/takujiusui/takujiusui.github.io/TakujiUsuiCV_2024.pdf) for my CV.
+See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2024.pdf) for my CV.

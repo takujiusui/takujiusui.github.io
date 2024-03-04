@@ -13,4 +13,4 @@ I am currently a postdoctoral researcher with [Megan Frederickson](http://mutual
 
 &nbsp;
 
-See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2024.pdf) for my CV.
+See [here](https://github.com/takujiusui/takujiusui.github.io/TakujiUsuiCV_2024.pdf) for my CV.

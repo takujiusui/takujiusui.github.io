@@ -5,6 +5,12 @@ order: 3
 ---
 
 My latest publications can be found in my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
+### Accepted or pre-prints
+
+**Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, Accepted. (Preprint: [doi.org/10.1101/2023.09.14.557841](https://www.biorxiv.org/content/10.1101/2023.09.14.557841v3))
+
+Gillies, G.J., Angert, A.L. & **Usui, T.** (2024) Temperature-dependence and genetic variation in resource acquisition strategies in a model freshwater plant. *BioRxiv*, [doi.org/10.1101/2023.11.28.569122](https://www.biorxiv.org/content/10.1101/2023.11.28.569122v1).
+
 ### Published
 
 **Usui, T.**, Lerner, D., Angert, A.L., Eckert, I., Garroway, C.J., Hargreaves, A.L., Lancaster, L.T., Lessard, J-P., Riva, F., Schmidt, C., Van der Burg, K. & Marshall, K. (2023) The evolution of plasticity at geographic range edges. *Trends in Ecology & Evolution*, 38, 831-842. [doi:10.1016/j.tree.2023.04.004](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8)

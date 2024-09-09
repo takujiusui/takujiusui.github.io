@@ -4,14 +4,16 @@ title: Publications
 order: 3
 ---
 
-My latest publications can be found in my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
-### Accepted or pre-prints
+My latest publications can be found on my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
+### Pre-prints
 
-**Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, Accepted. (Preprint: [doi.org/10.1101/2023.09.14.557841](https://www.biorxiv.org/content/10.1101/2023.09.14.557841v3))
-
-Gillies, G.J., Angert, A.L. & **Usui, T.** (2024) Temperature-dependence and genetic variation in resource acquisition strategies in a model freshwater plant. *BioRxiv*, [doi.org/10.1101/2023.11.28.569122](https://www.biorxiv.org/content/10.1101/2023.11.28.569122v1).
+**Usui, T.** & Angert, A.L. (2024) Competition enables rapid adaptation to a warming range edge. In Review at *Science* (Preprint: [doi.org/10.1101/2024.08.22.609250](https://www.biorxiv.org/content/10.1101/2024.08.22.609250v1))
 
 ### Published
+
+**Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, 27, e14406. [doi.org/10.1111/ele.14406](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406))
+
+Gillies, G.J., Angert, A.L. & **Usui, T.** (2024) Temperature-dependence and genetic variation in resource acquisition strategies in a model freshwater plant. *Functional Ecology*, 38, 1600-1610. [doi.org/10.1111/1365-2435.14567](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14567).
 
 **Usui, T.**, Lerner, D., Angert, A.L., Eckert, I., Garroway, C.J., Hargreaves, A.L., Lancaster, L.T., Lessard, J-P., Riva, F., Schmidt, C., Van der Burg, K. & Marshall, K. (2023) The evolution of plasticity at geographic range edges. *Trends in Ecology & Evolution*, 38, 831-842. [doi:10.1016/j.tree.2023.04.004](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8)
 

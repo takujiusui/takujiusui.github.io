@@ -36,5 +36,7 @@ navigation_header:
   url: /research/
 - title: Publications
   url: /pubs/
+- title: Systems
+  url: /systems/
 #- title: Field
 #  url: /field/

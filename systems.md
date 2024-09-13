@@ -4,6 +4,6 @@ title: Systems
 order: 4
 ---
 
-![system](images/system-banner.jpg)
+![system](images/system-banner.png)
 
 page under construction, check back soon!

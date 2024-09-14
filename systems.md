@@ -18,6 +18,10 @@ I also conduct large-scale, mesocosm experiments in the greenhouse to conduct co
 ![mesoexperiments](images/meso.png)
 
 ### Natural field experiments
-![fieldduckexperiments](images/field-duck.png)
+Experiments conducted in the lab and greenhouse are most powerful when connected to ecological and evolutionary processes and patterns observed in natural plant communities in the field. I use a variety of approaches (e.g., transplants, exclusions, experimental evolution) in the field to connect the natural history and ecology of various plant systems to large-scale eco-evolutionary processes shaping species distributions and coexistence.
 
+![fieldduckexperiments](images/field-duck.png)
 ![fieldwork](images/fieldwork.png)
+
+### Meta-analyses and scientific replicability
+Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., [Usui et al. 2017 J. Anim. Ecol.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)) and spatial (e.g., [Bontrager et al. 2021 Evol.](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14231)) trends and elucidating their eco-evolutionary predictors. I have also used meta-analyses (and new meta-analytic methods) to explore scientific replicability: In an interdisciplinary collaboration spanning the fields of evolutionary biology (I-DEEL lab, University of New South Wales; Senior Lab, University of Sydney) and biomedical science (CAMARADES team, University of Edinburgh), we explored the idea that, counter to long-held belief, experimental standardization may actually lead to reduced replicability through generating idiosyncratic effects. We argue the importance of embracing variability in effect-sizes, and suggest that experimental methodologies that generate variability in effect sizes should be incorporated in a systematic manner ([Usui et al. 2020 PloS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001009)). <i>I am exploring this idea further in ecology and evolution, and would love to chat with any potential collaborators!</i>

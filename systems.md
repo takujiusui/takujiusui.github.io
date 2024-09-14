@@ -13,3 +13,5 @@ page under construction, check back soon!
 ![mesoexperiments](images/meso.png)
 
 ![fieldduckexperiments](images/field-duck.png)
+
+![fieldwork](images/fieldwork.png)

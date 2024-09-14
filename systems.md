@@ -1,6 +1,6 @@
 ---
+title: "Systems"
 layout: page
-title: Systems
 order: 4
 ---
 
@@ -9,3 +9,5 @@ order: 4
 page under construction, check back soon!
 
 ![labexperiments](images/lab-exp.png)
+
+![fieldduckexperiments](images/field-duck.png)

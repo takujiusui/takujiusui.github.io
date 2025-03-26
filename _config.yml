@@ -14,8 +14,8 @@ minima:
    # generate social links in footer
    social_links:
      twitter: usui_takuji
-     bluesky: usuitakuji
-     github:  profile/usuitakuji.bsky.social
+     bluesky: profile/usuitakuji.bsky.social
+     github:  takujiusui
 
 # Build settings
 theme: minima

@@ -35,5 +35,5 @@ Fangmeier, M., Noble, D.W.A., O’Dea, R.E., **Usui, T.**, Lagisz, M., Hesselson
 
 **Usui, T.**, Butchart, S.H.M. & Phillimore, A.B. (2017) Temporal shifts and temperature sensitivity of avian spring migration phenology: a phylogenetic meta-analysis. *Journal of Animal Ecology*, 86, 250-261. [doi:10.1111/1365-2656.12612](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)
 
-![rockscene](images/rock-scene-small.png.png)
+![rockscene](images/rock-scene-small.png)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Everything, Everywhere, All at Once</p></div>

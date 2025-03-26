@@ -13,7 +13,7 @@ In the lab, I use experimental (co-)evolution of competing duckweed species, as 
 ![labexperiments](images/lab-exp.png)
 
 ### Large-scale mesocosm experiments
-In the greenhouse, mesocosm experiments using duckweed plants allow us to conduct large-scale common gardens using hundreds of globally sampled duckweed populations and species, as well as experimental evolution work at the scale of hundreds of thousands of individual plants. I merge these extensive mesocosm experiments with molecular work (population genetic, genomic, and epigenetic approaches) to allow us to link molecular mechanisms and processes with ecological dynamics unfolding across populations and communities.
+In the greenhouse, mesocosm experiments using duckweed plants allow us to conduct large-scale common gardens using hundreds of globally sampled duckweed populations and species, as well as experimental evolution work at the scale of hundreds of thousands of individual plants. I merge these extensive mesocosm experiments with molecular work to allow us to link genetic mechanisms and processes with ecological dynamics unfolding across populations and communities.
 
 ![mesoexperiments](images/meso.png)
 

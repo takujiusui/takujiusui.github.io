@@ -4,7 +4,7 @@ layout: page
 feature_text: |
   ## Takuji Usui
 ---
-![duckweed](images/duck-crop.jpg)
+![rockclimb](images/rock-bw.png)
 
 I am an evolutionary ecologist interested in understanding how ecological and evolutionary processes jointly shape species geographical distributions and community structure, in an era of global change. 
 

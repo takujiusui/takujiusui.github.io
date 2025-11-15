@@ -7,6 +7,8 @@ order: 3
 My latest publications can be found on my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
 ### Pre-prints
 
+**Usui, T.**, Yu, J., Frederickson, M.E. (2025) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? Submitted to *Ecology Letters* (Preprint: [doi.org/10.1101/2025.10.27.684839](https://www.biorxiv.org/content/10.1101/2025.10.27.684839v1.abstract))
+
 **Usui, T.** & Angert, A.L. (2024) Competition enables rapid adaptation to a warming range edge. In Revision at *Science* (Preprint: [doi.org/10.1101/2024.08.22.609250](https://www.biorxiv.org/content/10.1101/2024.08.22.609250v1))
 
 ### Published

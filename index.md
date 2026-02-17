@@ -6,7 +6,7 @@ feature_text: |
 ---
 ![rockclimb](images/rock-bw.png)
 
-I am an evolutionary ecologist interested in understanding how ecological and evolutionary processes jointly shape species geographical distributions and community structure, in an era of global change. 
+I am an evolutionary ecologist interested in understanding how ecological and evolutionary processes jointly shape species geographical distributions and community structure, particularly in an era of global change.
 
 I use a combination of experimental evolution, field work, and data synthesis approaches to test how the interaction between population genetics and ecology scales up to govern: (1) limits and changes to species distributions; (2) spatio-temporal patterns of species coexistence; (3) and evolutionary responses to warming in ecological communities. My research integrates themes and frameworks from evolutionary biology, population ecology, and community ecology.
 
@@ -15,6 +15,6 @@ I am currently an Ecology & Evolutionary Biology Postdoctoral Fellow at the Univ
 
 &nbsp;
 
-See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2025.pdf) for my CV.
+See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2026.pdf) for my CV.
 
 Thank you for checking out my website!

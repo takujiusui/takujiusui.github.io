@@ -10,11 +10,13 @@ My latest publications can be found on my [Google Scholar page](https://scholar.
 
 **Usui, T.**†, Sakarchi, J.†, Duchen, P., Hart, S.P., Turcotte, M.M., Xu, S., Angert, A.L.* & Germain, R.M.* (2026) Niche differentiation confers coexistence prior to the species boundary in an aquatic plant. Submitted to *Science*.
 
+Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., **Usui, T.**, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) The role of biotic permeability in species range dynamics. In review at *Trends in Ecology & Evolution*.
+
 **Usui, T.**†, Yu, J.† & Frederickson, M.E. (2026) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? In Revision at *New Phytologist* (Preprint: [doi.org/10.1101/2025.10.27.684839](https://www.biorxiv.org/content/10.1101/2025.10.27.684839v1.abstract)).
 
 ### Published
 
-**Usui, T.** & Angert, A.L. (2026) Competition enables rapid adaptation to a warming range edge in a model plant community. Accepted at *Science* (Preprint: [doi.org/10.1101/2024.08.22.609250](https://www.biorxiv.org/content/10.1101/2024.08.22.609250v1))
+**Usui, T.** & Angert, A.L. (2026) Competition enables rapid adaptation to a warming range edge in a model plant community. Accepted at *Science*.
 
 **Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, 27, e14406. [doi.org/10.1111/ele.14406](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406)
 

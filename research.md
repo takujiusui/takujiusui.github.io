@@ -15,7 +15,7 @@ I am currently using an experimental evolution approach using duckweeds (freshwa
 Some of my current interests are: 1) how **environmental variation** in space and time influences the predictability of population spread; 2) how **species interactions** (from competition to mutualisms) and co-evolution alters the dynamics of range expanding communities; and 3) the role of **epigenetic mechanisms** in mediating adaptive plasticity and colonization for clonal and invasive duckweeds.
 
 ![system](images/dw-collage.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right photo shows a local sampling site in Vancouver, BC</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
 
 ### Adaptation to warming within ecological communities
 Species ranges will shift or contract if range-edge populations cannot persist through a rapidly changing climate. Predicting the demographic and evolutionary fate of populations and species in response to climate change therefore remains a pressing challenge for ecologists and evolutionary biologists. While population responses to rising temperatures occur within a community context where interacting species have the potential to impact eco-evolutionary outcomes, we lack a mechanistic understanding of how and when species interactions will alter population and evolutionary responses under warming, and its subsequent impact on species distributions and community structure.

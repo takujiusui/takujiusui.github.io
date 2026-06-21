@@ -16,7 +16,7 @@ See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUs
 
 &nbsp;
 
-*** \*\*\*UPDATE:*** *I will be starting as an Assistant Professor at the [Department of Ecology & Evolutionary Biology at Yale University](https://eeb.yale.edu/) in 2027 and will be looking for students and postdocs. Please get in touch if interested, and stay tuned for more details soon!* \*\*\*
+\*\*\* ***UPDATE:*** *I will be starting as an Assistant Professor at the [Department of Ecology & Evolutionary Biology at Yale University](https://eeb.yale.edu/) in 2027 and will be looking for students and postdocs. Please get in touch if interested, and stay tuned for more details soon!* \*\*\*
 
 &nbsp;
 

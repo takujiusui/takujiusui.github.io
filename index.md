@@ -12,12 +12,12 @@ I use a combination of experimental evolution, field work, and data synthesis ap
 
 I am currently an Ecology & Evolutionary Biology Postdoctoral Fellow at the University of Toronto, working with [Megan Frederickson](http://mutualism.ca/) and [Stephen Wright](https://wright.eeb.utoronto.ca/).
 
-*I will be starting as an Assistant Professor at the Department of Ecology & Evolutionary Biology at Yale University in 2027. Stay tuned for more!*
-
-&nbsp;
-
-&nbsp;
-
 See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2026.pdf) for my CV.
 
-Thank you for checking out my website!
+&nbsp;
+
+***I will be starting as an Assistant Professor at the Department of Ecology & Evolutionary Biology at Yale University in 2027 and will be looking for students and postdocs. Please get in touch if interested, and stay tuned for more details soon!***
+
+&nbsp;
+
+Thank you for checking out my website.

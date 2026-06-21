@@ -12,7 +12,7 @@ Understanding the movement of species geographical ranges is a fundamental goal 
 
 I am currently using an experimental evolution approach using duckweeds (freshwater angiosperms) as a model plant community to test theories on how rapid eco-evolutionary interactions alter the dynamics of range expansion (e.g., [Usui & Angert 2024 Ecol. Lett.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406)). I use both field experiments and high-throughput experimental landscapes in the lab and greenhouse, through which I can track the ecological and evolutionary dynamics of populations and species moving across space and in real-time. 
 
-Some of my current interests are: 1) how ***environmental variation*** in space and time influences the predictability of population spread; 2) how ***species interactions*** (from competition to mutualisms) and co-evolution alters the dynamics of range expanding communities; and 3) the role of ***epigenetic mechanisms*** in mediating adaptive plasticity and colonization for clonal and invasive duckweeds.
+Some of my current interests are: 1) how **environmental variation** in space and time influences the predictability of population spread; 2) how **species interactions** (from competition to mutualisms) and co-evolution alters the dynamics of range expanding communities; and 3) the role of **epigenetic mechanisms** in mediating adaptive plasticity and colonization for clonal and invasive duckweeds.
 
 ![system](images/dw-collage.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right photo shows a local sampling site in Vancouver, BC</p></div>

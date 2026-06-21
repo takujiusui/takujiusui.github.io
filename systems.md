@@ -5,10 +5,10 @@ order: 4
 ---
 ![system](images/system-banner.png)
 
-To answer foundational and contemporary questions at the intersection of ecology and evolution, my current research uses duckweed communities (Lemnaceae) as model plants in high-throughput and rigorous experiments in the lab, greenhouse, and natural freshwater systems.
+To answer foundational and contemporary questions at the intersection of ecology and evolution, much of my current research uses duckweed plants (and also their microbial symbionts) as model communities in high-throughput and rigorous experiments in the lab, greenhouse, and natural freshwater systems.
 
-### High-throughput experimental evolution
-In the lab, I use experimental (co-)evolution of competing duckweed species, as well as co-evolution between duckweeds and their (mostly beneficial) microbial symbionts, to experimentally tease apart population, evolutionary, and community processes over space and in real-time. The rapid generation time of duckweeds (2-7 days) make these plants highly amenable to experimental evolution, and sterile techniques can be used for the experimental removal or manipulation of host-associated microbial communities. My collaborators and I are currently integrating robot-operated, phenotyping systems with machine-learning approaches to track plant growth, phenotypes, and individual-level lineages across space and over time.
+### High-throughput lab-experimental evolution
+In the lab, I use experimental (co-)evolution of competing duckweed species, as well as co-evolution between duckweeds and their (mostly beneficial) microbial symbionts, to experimentally tease apart population, evolutionary, and community processes over space and in real-time. The rapid generation time of common duckweeds (2-7 days), the presence of naturally co-occurring and competing species, and the ease at which we can manipulate host-associated microbiomes, make this system highly suitable for experimental evolution work in communities. Together with [Megan Frederickson](http://mutualism.ca/) (University of Toronto), I am currently integrating robot-operated phenotyping systems with machine-learning approaches to track plants at the individual lineage-level across space and over time.
 
 ![labexperiments](images/lab-exp.png)
 

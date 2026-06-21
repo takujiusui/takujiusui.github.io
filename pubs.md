@@ -6,17 +6,19 @@ order: 3
 
 My latest publications can be found on my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors
 
-### Submitted and Pre-prints
+### Pre-prints
 
-**Usui, T.**†, Sakarchi, J.†, Duchen, P., Hart, S.P., Turcotte, M.M., Xu, S., Angert, A.L.* & Germain, R.M.* (2026) Niche differentiation confers coexistence prior to the species boundary in an aquatic plant. Submitted to *Science*.
+Urquhart, C.A., **Usui, T.**, Angert, A.L. & Williams, J.L. (2026) Eco-evolutionary dynamics are shaped by competition in experimental range expansions. [doi.org/10.64898/2026.06.01.729372](https://www.biorxiv.org/content/10.64898/2026.06.01.729372v1).
 
-Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., **Usui, T.**, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) The role of biotic permeability in species range dynamics. In review at *Trends in Ecology & Evolution*.
+**Usui, T.**†, Sakarchi, J.†, Duchen, P., Hart, S.P., Turcotte, M.M., Xu, S., Angert, A.L.* & Germain, R.M.* (2026) Niche differentiation confers coexistence prior to the species boundary in an aquatic plant. [doi.org/10.64898/2026.04.03.716288](https://www.biorxiv.org/content/10.64898/2026.04.03.716288v1).
 
-**Usui, T.**†, Yu, J.† & Frederickson, M.E. (2026) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? In Revision at *New Phytologist* (Preprint: [doi.org/10.1101/2025.10.27.684839](https://www.biorxiv.org/content/10.1101/2025.10.27.684839v1.abstract)).
+Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., **Usui, T.**, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) The role of biotic permeability in species range dynamics.
 
 ### Published
 
-**Usui, T.** & Angert, A.L. (2026) Competition enables rapid adaptation to a warming range edge in a model plant community. Accepted at *Science*.
+**Usui, T.**†, Yu, J.† & Frederickson, M.E. (2026) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? *New Phytologist* Accepted. [doi.org/10.1111/nph.71372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71372).
+
+**Usui, T.** & Angert, A.L. (2026) Competition enables rapid adaptation to a warming range edge in a model plant community. *Science*, 392, 6802. [doi.org/10.1126/science.ads4664](https://www.science.org/doi/10.1126/science.ads4664).
 
 **Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, 27, e14406. [doi.org/10.1111/ele.14406](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406)
 

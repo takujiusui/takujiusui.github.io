@@ -5,7 +5,7 @@ order: 2
 ---
 
 ![system](images/dw-system-wide-bw.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental range expansion of the common duckweed,<i> Lemna minor</i></p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental range expansion of the common<i> Lemna </i>spp. duckweeds</p></div>
 
 ### Species range dynamics under global change
 Understanding the movement of species geographical ranges is a fundamental goal of ecology and is of urgent importance given rapid global change. The expansion of species ranges (due to climate-driven range shifts or the introduction of new species) can lead to unique evolutionary changes in range-edge populations, and these  evolutionary changes may in turn shape the dynamics of range expansion through eco-evolutionary feedbacks. Understanding future changes to species distributions therefore requires predictive frameworks and experimental tests of the eco-evolutionary dynamics of range expansion (see [Usui et al. 2023 Trends Ecol. Evol.](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8) and [Miller et al. 2020 Ecol.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139) for perspective pieces).

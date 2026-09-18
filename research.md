@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-order: 2
+order: 1
 ---
 
 ![system](images/dw-system-wide-bw.jpg)

@@ -34,11 +34,11 @@ navigation_header:
 #  url: /
 - title: Research
   url: /research/
+- title: Approaches
+  url: /approaches/
 - title: Publications
   url: /pubs/
-- title: Systems
-  url: /systems/
-- title: Outreach
-  url: /outreach/
-#- title: Field
-#  url: /field/
+- title: People
+  url: /people/
+- title: Opportunities
+  url: /opportunities/

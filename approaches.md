@@ -1,7 +1,7 @@
 ---
-title: "Systems"
+title: "Approaches"
 layout: page
-order: 4
+order: 2
 ---
 
 To answer foundational and contemporary questions at the intersection of ecology and evolution, much of my current research uses duckweed plants (and also their microbial symbionts) as model communities in high-throughput and rigorous experiments in the lab, greenhouse, and natural freshwater systems.

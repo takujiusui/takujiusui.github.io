@@ -1,5 +1,4 @@
 ---
-title: About  
 layout: page
 feature_text: |
   ## Usui Lab

@@ -4,7 +4,7 @@ title: Publications
 order: 3
 ---
 
-My latest publications can be found on my [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors
+For the latest publications, please check [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors; ‡ undergraduate students
 
 ### Pre-prints
 
@@ -12,17 +12,17 @@ Urquhart, C.A., **Usui, T.**, Angert, A.L. & Williams, J.L. (2026) Eco-evolution
 
 **Usui, T.**†, Sakarchi, J.†, Duchen, P., Hart, S.P., Turcotte, M.M., Xu, S., Angert, A.L.* & Germain, R.M.* (2026) Niche differentiation confers coexistence prior to the species boundary in an aquatic plant. [doi.org/10.64898/2026.04.03.716288](https://www.biorxiv.org/content/10.64898/2026.04.03.716288v1).
 
-Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., **Usui, T.**, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) The role of biotic permeability in species range dynamics.
+Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., **Usui, T.**, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) The role of biotic permeability in species range dynamics. In revision.
 
 ### Published
 
-**Usui, T.**†, Yu, J.† & Frederickson, M.E. (2026) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? *New Phytologist* Accepted. [doi.org/10.1111/nph.71372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71372).
+**Usui, T.**†, Yu, J.†‡ & Frederickson, M.E. (2026) For colonization success, should hosts and microbes travel alone, together, or swap partners along the way? *New Phytologist* Accepted. [doi.org/10.1111/nph.71372](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71372).
 
 **Usui, T.** & Angert, A.L. (2026) Competition enables rapid adaptation to a warming range edge in a model plant community. *Science*, 392, 6802. [doi.org/10.1126/science.ads4664](https://www.science.org/doi/10.1126/science.ads4664).
 
 **Usui, T.** & Angert, A.L. (2024) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature. *Ecology Letters*, 27, e14406. [doi.org/10.1111/ele.14406](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406)
 
-Gillies, G.J., Angert, A.L. & **Usui, T.** (2024) Temperature-dependence and genetic variation in resource acquisition strategies in a model freshwater plant. *Functional Ecology*, 38, 1600-1610. [doi.org/10.1111/1365-2435.14567](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14567).
+Gillies, G.J.‡, Angert, A.L. & **Usui, T.** (2024) Temperature-dependence and genetic variation in resource acquisition strategies in a model freshwater plant. *Functional Ecology*, 38, 1600-1610. [doi.org/10.1111/1365-2435.14567](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14567).
 
 **Usui, T.**†, Lerner, D.†, Angert, A.L., Eckert, I., Garroway, C.J., Hargreaves, A.L., Lancaster, L.T., Lessard, J-P., Riva, F., Schmidt, C., Van der Burg, K. & Marshall, K. (2023) The evolution of plasticity at geographic range edges. *Trends in Ecology & Evolution*, 38, 831-842. [doi:10.1016/j.tree.2023.04.004](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8)
 

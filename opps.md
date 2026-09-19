@@ -4,11 +4,11 @@ layout: page
 order: 5
 ---
 
+### Join us!
+
 <div class="opportunities-intro">
 
   <div class="opportunities-text">
-
-    <h2>Join us!</h2>
 
     <p>We welcome inquiries from prospective graduate students, postdoctoral scholars, and undergraduate students.</p>
 

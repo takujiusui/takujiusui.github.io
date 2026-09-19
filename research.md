@@ -8,28 +8,44 @@ order: 1
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental range expansion of the common duckweed (<i>Lemna </i>spp.)</p></div>
 
 ### Species range dynamics under global change
-Understanding the movement of species geographical ranges is a fundamental goal of ecology and is of urgent importance given rapid global change. The expansion of species ranges (due to climate-driven range shifts or the introduction of new species) can lead to unique evolutionary changes in range-edge populations, and these  evolutionary changes may in turn shape the dynamics of range expansion through eco-evolutionary feedbacks. Understanding future changes to species distributions therefore requires predictive frameworks and experimental tests of the eco-evolutionary dynamics of range expansion (see [Usui et al. 2023 Trends Ecol. Evol.](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8) and [Miller et al. 2020 Ecol.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3139) for perspective pieces).
 
-In my current work, I use an experimental evolution approach using duckweeds (freshwater angiosperms) as a model plant community to test theories on how rapid eco-evolutionary interactions alter the dynamics of range expansion (e.g., [Usui & Angert 2024 Ecol. Lett.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406)). I use both field experiments and high-throughput experimental landscapes in the lab and greenhouse, through which I can track the ecological and evolutionary dynamics of populations and species moving across space and in real-time. 
+How will species shift their geographical range in response to environmental change?
+What are the ecological and molecular mechanisms that allow populations to spread and invade?
+What limits a species geographical range and ecological niche?
 
-Some of my current interests are: 1) how **environmental variation** in space and time influences the predictability of population spread; 2) how **species interactions** (from competition to mutualisms) and co-evolution alters the dynamics of range expanding communities; and 3) the role of **epigenetic mechanisms** in mediating adaptive plasticity and colonization for clonal and invasive duckweeds.
+Understanding the ecological and evolutionary processes that shape species geographical ranges and their limits is a fundamental goal of ecology. With global change, it is also an increasingly urgent goal as species distributions rapidly change in response to environmental change and due to accelerating biological introductions.
+
+The expansion and contraction of species ranges can generate distinct evolutionary changes in range-edge populations, and these evolutionary changes may in turn shape the dynamics of range expansion and contraction through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires predictive frameworks and experimental tests of how spatial eco-evolutionary dynamics unfold across moving populations and changing environments.
+
+To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including the experimental evolution of duckweeds (one of the smallest and most rapidly reproducing flowering plants; see Approaches) in spatially structured microcosms, mesocosms, and ponds, which allows us to track and manipulate plant populations moving and evolving across space and in real-time.
 
 ![system](images/dw-collage.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
 
-### Adaptation to warming within ecological communities
-Predicting the demographic and evolutionary fate of populations and species in response to warming is a pressing challenge for ecologists and evolutionary biologists. While population responses to rising temperatures occur within a community context where interacting species have the potential to impact eco-evolutionary outcomes, we lack a mechanistic understanding of: (1) how and when **species interactions will alter population and evolutionary responses to warming**, and in turn; (2) how population and evolutionary **responses to warming will shape species interactions and community re-assembly**. 
+### Eco-evolutionary dynamics of competition and species coexistence
 
-To this end, I seek to understand how eco-evolutionary feedbacks shape population and community responses to warming. Here, some of my current interests include: (1) how interspecific competition alters adaptive evolution and population persistence at warming range edges ([Usui & Angert 2026 Science](https://www.science.org/doi/10.1126/science.ads4664)); (2) how resource-use traits underlying competition could change under temperature stress ([Gillies et al. 2024 Funct. Ecol.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14567)); and (3) how mutualistic interactions between plants and their microbial partners evolve under warming and alter thermal performance. 
+How will eco-evolutionary responses to environmental change unfold within competitive communities?
+How does competition alter species range dynamics and spatial patterns of coexistence?
+How will species evolve to coexist during community (re-)assembly?
+
+Species rarely experience environmental change in isolation. Instead, eco-evolutionary responses to environmental change occur within a community context where interacting and competing species have the potential to alter population, evolutionary, and community outcomes.
+
+Through merging experimental evolution with community ecology, our lab seeks to understand the reciprocal interactions between competition and evolution, asking: (1) when and how does competition alter evolutionary responses to environmental change? And, in turn, (2) how does evolution alter mechanisms of competition, species coexistence, and community assembly?
+
+Ultimately, we seek to understand how competition and evolution interact across landscapes and over time, to maintain populations and structure communities in a changing world.
 
 <br>
 ![system](images/RA_Fig.png)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Testing local adaptation to warming range edges in competitive plant communities (from Usui & Angert, Science 2026)</p></div>
 
-### Evolution of species coexistence
-The immense biodiversity that we see across space and time, and the mechanisms leading to its origins and maintenance, is a key question that unites ecology and evolutionary biology. While evolutionary theory states that species diversity is initiated by the genetic divergence of lineages through the evolution of reproductive isolation (i.e., speciation), ecological theory states that successful diversification may also hinge upon whether ecological differentiation could could permit diverging lineages to coexist through time. When and how mechanisms of demographic persistence and coexistence evolves over time (i.e., the tempo and mode of coexistence mechanisms) then, is critical to our understanding of the origins and maintenance of the contemporary assemblage of species observed today (see [Germain et al. 2021 Trends Ecol. Evol.](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30339-6) for a perspective piece led by Rachel Germain at UBC Vancouver).
+### Eco-evolutionary dynamics of plant-microbe interactions
+How do plant-microbe interactions co-evolve across space and with environmental change?
+How do microbial symbionts alter host evolution, distribution, and coexistence?
+How does the microbiome assemble on host plants?
 
-In a huge common garden consisting of 1890 competition trials simulating secondary contact between 126 allopatric and genetically diverging populations of duckweed, we empirically parameterized the tempo and mode of coexistence evolution within species and at timescales critical to lineage divergence ([Usui & Sakarchi et al. 2026](https://www.biorxiv.org/content/10.64898/2026.04.03.716288v1)). Some of my other current interests on the evolution of species coexistence include: 1) the evolution of coexistence in hybrid duckweed species; 2) how rapid changes in climate across space and time alter the evolution of coexistence mechanisms and parapatric range limits; and 3) how evolution in host-symbiont (i.e., plant-microbiome) communities alters resource competition and coexistence outcomes over time.
+Almost all eukaryotic organisms harbour microbial partners (symbionts) that live on or inside host tissues. These microbial partners can alter host performance and vice versa, with interactions spanning from mutualism to antagonism. How host-microbe interactions change and co-evolve —and how these interactions help shape host and microbial distribution, coexistence, and rapid evolution in response to environmental change— remain key, open questions.
+
+The microbes residing in and on duckweeds have been described since the 17th century. We use duckweeds and their microbial symbionts as a powerful and tractable model system for studying plant-microbial interactions across scales. By combining lab and field experiments with molecular tools and high-throughput phenotyping (see Approaches), we can test fundamental questions on the eco-evolutionary processes shaping plant-microbe interactions, and how these interactions consequently shape larger scale patterns of biodiversity.
 
 ![microduck](images/duck-micro.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>

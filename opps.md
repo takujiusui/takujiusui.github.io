@@ -27,7 +27,7 @@ order: 5
 
 ### Current openings
 
-The Usui Lab will open its doors at Yale EEB in January 2027! We are currently looking for prospective **graduate students** (to start in September 2027; applications due December 1) and **postdoctoral researchers** (to start anytime from January 2027).
+The Usui Lab will open its doors at Yale EEB in January 2027! We are currently looking for a prospective **graduate student** (to start in September 2027; applications due December 1) and a **postdoctoral researcher** (to start anytime from January 2027).
 
 **Prospective graduate students:** If you are interested in joining my lab, please check out the [Yale EEB graduate program](https://eeb.yale.edu/academics/graduate-program) for details on how to formally apply. Students will need to [contact](mailto:usuitakuji@gmail.com) their prospective advisor before applying to the graduate program (the admission deadline is December 1).
 

@@ -10,9 +10,11 @@ order: 1
 
 ### Species range dynamics under global change
 
-How will species shift their geographical range in response to environmental change?
-What are the ecological and molecular mechanisms that allow populations to spread and invade?
-What limits a species geographical range and ecological niche?
+***How will species shift their geographical range in response to environmental change?***
+
+***What are the ecological and molecular mechanisms that allow populations to spread and invade?***
+
+***What limits a species geographical range and ecological niche?***
 
 Understanding the ecological and evolutionary processes that shape species geographical ranges and their limits is a fundamental goal of ecology. With global change, it is also an increasingly urgent goal as species distributions rapidly change in response to environmental change and due to accelerating biological introductions.
 
@@ -25,9 +27,11 @@ To explore these questions, we use a variety of experimental and molecular appro
 
 ### Eco-evolutionary dynamics of competition and species coexistence
 
-How will eco-evolutionary responses to environmental change unfold within competitive communities?
-How does competition alter species range dynamics and spatial patterns of coexistence?
-How will species evolve to coexist during community (re-)assembly?
+***How will eco-evolutionary responses to environmental change unfold within competitive communities?***
+
+***How does competition alter species range dynamics and spatial patterns of coexistence?***
+
+***How will species evolve to coexist during community (re-)assembly?***
 
 Species rarely experience environmental change in isolation. Instead, eco-evolutionary responses to environmental change occur within a community context where interacting and competing species have the potential to alter population, evolutionary, and community outcomes.
 
@@ -40,9 +44,12 @@ Ultimately, we seek to understand how competition and evolution interact across 
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Testing local adaptation to warming range edges in competitive plant communities (from Usui & Angert, Science 2026)</p></div>
 
 ### Eco-evolutionary dynamics of plant-microbe interactions
-How do plant-microbe interactions co-evolve across space and with environmental change?
-How do microbial symbionts alter host evolution, distribution, and coexistence?
-How does the microbiome assemble on host plants?
+
+***How do plant-microbe interactions co-evolve across space and with environmental change?***
+
+***How do microbial symbionts alter host evolution, distribution, and coexistence?***
+
+***How does the microbiome assemble on host plants?***
 
 Almost all eukaryotic organisms harbour microbial partners (symbionts) that live on or inside host tissues. These microbial partners can alter host performance and vice versa, with interactions spanning from mutualism to antagonism. How host-microbe interactions change and co-evolve —and how these interactions help shape host and microbial distribution, coexistence, and rapid evolution in response to environmental change— remain key, open questions.
 

@@ -1,5 +1,5 @@
 ---
-title: "Opportunities"
+title: "Join"
 layout: page
 order: 5
 ---

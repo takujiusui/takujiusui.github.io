@@ -32,6 +32,8 @@ plugins:
 navigation_header:
 #- title: About
 #  url: /
+- title: About
+  url: /about/
 - title: Research
   url: /research/
 - title: Approaches
@@ -40,5 +42,5 @@ navigation_header:
   url: /pubs/
 - title: People
   url: /people/
-- title: Opportunities
-  url: /opportunities/
+- title: Join
+  url: /join/

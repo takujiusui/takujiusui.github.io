@@ -4,13 +4,30 @@ layout: page
 order: 5
 ---
 
-## Join us!
+<div class="opportunities-intro">
 
+  <div class="opportunities-text">
+
+    <h2>Join us!</h2>
+
+    <p>We welcome inquiries from prospective graduate students, postdoctoral scholars, and undergraduate students.</p>
+
+    <p>We are an inclusive and collaborative group motivated by curiosity and learning. We value creativity, wonder, and respect when probing new and long-standing questions in evolutionary ecology.</p>
+
+    <p>If you are interested in joining my lab, please <a href="mailto:usuitakuji@gmail.com">reach out to me via email</a> with your CV, and a few sentences on what excites and motivates you, and what about my lab interests you.</p>
+
+  </div>
+
+  <div class="opportunities-image">
+    <img src="/images/yale-eeb-logo.jpg" alt="Yale EEB Logo">
+  </div>
+
+</div>
 We welcome inquiries from prospective graduate students, postdoctoral scholars, and undergraduate students.
 
 We are an inclusive and collaborative group motivated by curiosity and learning. We value creativity, curiosity, and respect when probing new and long-standing questions in evolutionary ecology.
 
-If you are interested in joining my lab, please reach out to me [via email](mailto:usuitakuji@gmail.com) if you are interested. with your CV, and a few sentences on what excites and motivates you, and what about my lab interests you.
+If you are interested in joining my lab, please reach out to me [via email](mailto:usuitakuji@gmail.com) with your CV, and a few sentences on what excites and motivates you, and what about my lab interests you.
 
 ### Current openings
 

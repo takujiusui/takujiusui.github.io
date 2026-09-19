@@ -5,3 +5,41 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/* =========================
+   Opportunities page
+   ========================= */
+
+.opportunities-intro {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.opportunities-text {
+  flex: 1;
+}
+
+.opportunities-image {
+  flex: 0 0 40%;
+}
+
+.opportunities-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+  .opportunities-intro {
+    flex-direction: column;
+  }
+
+  .opportunities-image {
+    width: 100%;
+  }
+}

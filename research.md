@@ -5,7 +5,8 @@ order: 1
 ---
 
 ![system](images/dw-system-wide-bw.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental range expansion of the common duckweed (<i>Lemna </i>spp.)</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">From Usui & Angert (2024) <i>Ecol. Lett.</i></a>
+</p></div>
 
 ### Species range dynamics under global change
 
@@ -17,7 +18,7 @@ Understanding the ecological and evolutionary processes that shape species geogr
 
 The expansion and contraction of species ranges can generate distinct evolutionary changes in range-edge populations, and these evolutionary changes may in turn shape the dynamics of range expansion and contraction through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires predictive frameworks and experimental tests of how spatial eco-evolutionary dynamics unfold across moving populations and changing environments.
 
-To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including the experimental evolution of duckweeds (one of the smallest and most rapidly reproducing flowering plants; see Approaches) in spatially structured microcosms, mesocosms, and ponds, which allows us to track and manipulate plant populations moving and evolving across space and in real-time.
+To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including the experimental evolution of duckweeds (one of the smallest and most rapidly reproducing flowering plants; see [Approaches](/approaches/)) in spatially structured microcosms, mesocosms, and ponds, which allows us to track and manipulate plant populations moving and evolving across space and in real-time.
 
 ![system](images/dw-collage.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
@@ -45,7 +46,7 @@ How does the microbiome assemble on host plants?
 
 Almost all eukaryotic organisms harbour microbial partners (symbionts) that live on or inside host tissues. These microbial partners can alter host performance and vice versa, with interactions spanning from mutualism to antagonism. How host-microbe interactions change and co-evolve —and how these interactions help shape host and microbial distribution, coexistence, and rapid evolution in response to environmental change— remain key, open questions.
 
-The microbes residing in and on duckweeds have been described since the 17th century. We use duckweeds and their microbial symbionts as a powerful and tractable model system for studying plant-microbial interactions across scales. By combining lab and field experiments with molecular tools and high-throughput phenotyping (see Approaches), we can test fundamental questions on the eco-evolutionary processes shaping plant-microbe interactions, and how these interactions consequently shape larger scale patterns of biodiversity.
+The microbes residing in and on duckweeds have been described [since the 17th century](https://pictures.royalsociety.org/image-rs-9609). We use duckweeds and their microbial symbionts as a powerful and tractable model system for studying plant-microbial interactions across scales. By combining lab and field experiments with molecular tools and high-throughput phenotyping (see [Approaches](/approaches/)), we can test fundamental questions on the eco-evolutionary processes shaping plant-microbe interactions, and how these interactions consequently shape larger scale patterns of biodiversity.
 
 ![microduck](images/duck-micro.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Common duckweed,<i> Lemna minor.</i> Photo by Emma Menchions</p></div>

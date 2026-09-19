@@ -44,3 +44,43 @@
     width: 100%;
   }
 }
+
+
+/* =========================
+   People page
+   ========================= */
+
+.people-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.people-text {
+  flex: 1;
+}
+
+.people-image {
+  flex: 0 0 40%;
+  margin-top: 10px;
+}
+
+.people-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+  .people-intro {
+    flex-direction: column;
+  }
+
+  .people-image {
+    width: 100%;
+  }
+}

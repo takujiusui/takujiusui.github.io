@@ -4,11 +4,11 @@ layout: page
 order: 4
 ---
 
-### Takuji Usui
-
 <div class="people-intro">
 
   <div class="people-text">
+
+    <h3>Takuji Usui</h3>
 
     <p>I am an evolutionary ecologist. I love exploring the big, foundational questions at the intersection of ecology and evolution on what shapes patterns of biodiversity, and how these processes and patterns are rapidly changing.</p>
     

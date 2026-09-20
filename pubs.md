@@ -4,7 +4,7 @@ title: Publications
 order: 3
 ---
 
-For the latest publications, please check [Google Scholar page](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors; ‡ undergraduate students
+For the latest publications, please check [Google Scholar](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors; ‡ undergraduate students
 
 ### Pre-prints
 

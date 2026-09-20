@@ -16,11 +16,11 @@ order: 1
 
 *What limits a species geographical range and ecological niche?*
 
-Understanding the ecological and evolutionary processes that shape species geographical ranges and their limits is a fundamental goal of ecology. With global change, it is also an increasingly urgent goal as species distributions rapidly change in response to environmental change and due to accelerating biological introductions.
+Understanding the ecological and evolutionary processes that shape species geographical ranges and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species ranges.
 
-The expansion and contraction of species ranges can generate distinct evolutionary changes in range-edge populations, and these evolutionary changes may in turn shape the dynamics of range expansion and contraction through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires predictive frameworks and experimental tests of how spatial eco-evolutionary dynamics unfold across moving populations and changing environments.
+Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
 
-To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including the experimental evolution of duckweeds (one of the smallest and most rapidly reproducing flowering plants; see [Approaches](/approaches/)) in spatially structured microcosms, mesocosms, and ponds, which allows us to track and manipulate plant populations moving and evolving across space and in real-time.
+To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including experimental evolution of duckweeds in spatially structured microcosms, mesocosms, and ponds. Together, these approaches allow us to manipulate and track how populations move and evolve across space and in real-time (see [Approaches](/approaches/)).
 
 ![system](images/dw-collage.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>

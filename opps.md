@@ -14,7 +14,7 @@ order: 5
 
     <p>We are an inclusive and collaborative group motivated by curiosity and learning. We value creativity, wonder, and respect when probing new and long-standing questions in evolutionary ecology.</p>
 
-    <p>If you are interested in joining my lab, please <a href="mailto:usuitakuji@gmail.com">reach out to me via email</a> with your CV, and a few sentences on what excites and motivates you, and what about my lab interests you.</p>
+    <p>If you are interested in joining my lab, please <a href="mailto:usuitakuji@gmail.com">reach out to me via email</a> with your CV, a few sentences on what excites and motivates you, and what about my lab interests you.</p>
 
   </div>
 

@@ -18,7 +18,7 @@ order: 1
 
 Understanding the ecological and evolutionary processes that shape species distributions and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species geographical ranges.
 
-Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
+Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Predicting species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
 
 To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including experimental evolution of duckweeds in spatially structured microcosms, mesocosms, and ponds. Together, these approaches allow us to manipulate and track how populations move and evolve across space and in real-time (see [Approaches](/approaches/)).
 

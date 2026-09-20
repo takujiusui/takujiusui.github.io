@@ -16,8 +16,6 @@ order: 1
 
 *What limits a species geographical range and ecological niche?*
 
-<br>
-
 Understanding the ecological and evolutionary processes that shape species distributions and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species geographical ranges.
 
 Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
@@ -29,7 +27,7 @@ To explore these questions, we use a variety of experimental and molecular appro
 
 ### Eco-evolutionary dynamics of competition and species coexistence
 
-*How will eco-evolutionary responses to environmental change unfold within competitive communities?*
+*How will eco-evolutionary responses to global change unfold within competitive communities?*
 
 *How does competition alter species range dynamics and spatial patterns of coexistence?*
 
@@ -41,7 +39,7 @@ Species rarely experience environmental change in isolation. Instead, eco-evolut
 
 Through merging experimental evolution with community ecology, our lab seeks to understand the reciprocal interactions between competition and evolution, asking: (1) when and how does competition alter evolutionary responses to environmental change? And, in turn, (2) how does evolution alter mechanisms of competition, species coexistence, and community assembly?
 
-Ultimately, we seek to understand how competition and evolution interact across landscapes and over time, to maintain populations and structure communities in a changing world.
+Ultimately, we seek to understand how competition and evolution interact across landscapes and over time to shape where species occur, how they coexist, and how communities respond to rapid environmental change.
 
 <br>
 ![system](images/RA_Fig.png)
@@ -54,8 +52,6 @@ Ultimately, we seek to understand how competition and evolution interact across 
 *How do microbial symbionts alter host evolution, distribution, and coexistence?*
 
 *How does the microbiome assemble on host plants?*
-
-<br>
 
 Almost all eukaryotic organisms harbour microbial partners (symbionts) that live on or inside host tissues. These microbial partners can alter host performance and vice versa, with interactions spanning from mutualism to antagonism. How host-microbe interactions change and co-evolve —and how these interactions help shape host and microbial distribution, coexistence, and rapid evolution in response to environmental change— remain key, open questions.
 

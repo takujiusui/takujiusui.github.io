@@ -16,7 +16,9 @@ order: 1
 
 *What limits a species geographical range and ecological niche?*
 
-Understanding the ecological and evolutionary processes that shape species geographical ranges and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species ranges.
+<br>
+
+Understanding the ecological and evolutionary processes that shape species distributions and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species geographical ranges.
 
 Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Understanding species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
 
@@ -32,6 +34,8 @@ To explore these questions, we use a variety of experimental and molecular appro
 *How does competition alter species range dynamics and spatial patterns of coexistence?*
 
 *How will species evolve to coexist during community (re-)assembly?*
+
+<br>
 
 Species rarely experience environmental change in isolation. Instead, eco-evolutionary responses to environmental change occur within a community context where interacting and competing species have the potential to alter population, evolutionary, and community outcomes.
 
@@ -50,6 +54,8 @@ Ultimately, we seek to understand how competition and evolution interact across 
 *How do microbial symbionts alter host evolution, distribution, and coexistence?*
 
 *How does the microbiome assemble on host plants?*
+
+<br>
 
 Almost all eukaryotic organisms harbour microbial partners (symbionts) that live on or inside host tissues. These microbial partners can alter host performance and vice versa, with interactions spanning from mutualism to antagonism. How host-microbe interactions change and co-evolve —and how these interactions help shape host and microbial distribution, coexistence, and rapid evolution in response to environmental change— remain key, open questions.
 

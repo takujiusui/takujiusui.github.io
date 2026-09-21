@@ -33,8 +33,6 @@ To explore these questions, we use a variety of experimental and molecular appro
 
 *How will species evolve to coexist during community (re-)assembly?*
 
-<br>
-
 Species rarely experience environmental change in isolation. Instead, eco-evolutionary responses to environmental change occur within a community context where interacting and competing species have the potential to alter population, evolutionary, and community outcomes.
 
 Through merging experimental evolution with community ecology, our lab seeks to understand the reciprocal interactions between competition and evolution, asking: (1) when and how does competition alter evolutionary responses to environmental change? And, in turn, (2) how does evolution alter mechanisms of competition, species coexistence, and community assembly?

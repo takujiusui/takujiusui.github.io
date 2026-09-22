@@ -35,7 +35,6 @@ In the field, we use a variety of approaches (e.g., common gardens, reciprocal t
 Duckweeds, being a cosmopolitan plant for the most part, offer an exciting system to explore the ecological and molecular mechanisms behind how weedy (and often introduced/invasive) plants are able to withstand and thrive in a diverse range of ecological conditions ranging from rural to urban freshwater habitats.
 
 ![fieldduckexperiments](images/field-duck.png)
-![fieldwork](images/fieldwork.png)
 
 ### Meta-analysis and data synthesis
 Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., Usui et al. 2017 J. Anim. Ecol.) and spatial (e.g., Bontrager et al. 2021 Evol.) trends and elucidating their eco-evolutionary predictors.

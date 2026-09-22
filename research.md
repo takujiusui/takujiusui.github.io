@@ -4,10 +4,6 @@ title: Research
 order: 1
 ---
 
-![system](images/dw-system-wide-bw2.png)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui & Angert (2024) <i>Ecol. Lett.</i></a>
-</p></div>
-
 ### Species range dynamics under global change
 
 *How will species shift their geographical range in response to environmental change?*
@@ -21,6 +17,11 @@ Understanding the ecological and evolutionary processes that shape species distr
 Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Predicting species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
 
 To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including experimental evolution of duckweeds in spatially structured microcosms, mesocosms, and ponds. Together, these approaches allow us to manipulate and track how populations move and evolve across space and in real-time (see [Approaches](/approaches/)).
+
+<br>
+![system](images/dw-system-wide-bw2.png)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui & Angert (2024) <i>Ecol. Lett.</i></a>
+</p></div>
 
 ### Eco-evolutionary dynamics of competition and species coexistence
 

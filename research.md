@@ -22,9 +22,6 @@ Range expansion and contraction can drive rapid evolutionary changes in range-ed
 
 To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including experimental evolution of duckweeds in spatially structured microcosms, mesocosms, and ponds. Together, these approaches allow us to manipulate and track how populations move and evolve across space and in real-time (see [Approaches](/approaches/)).
 
-![system](images/dw-collage.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
-
 ### Eco-evolutionary dynamics of competition and species coexistence
 
 *How will eco-evolutionary responses to global change unfold within competitive communities?*

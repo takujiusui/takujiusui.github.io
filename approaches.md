@@ -8,6 +8,9 @@ To answer foundational and contemporary questions at the intersection of ecology
 
 We merge experiments with molecular work to link evolutionary mechanisms and processes with ecological dynamics unfolding across populations and communities at a scale of hundreds of thousands of individual plants.
 
+![system](images/dw-collage.jpg)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
+
 ### Experimental evolution
 To explore and manipulate evolutionary dynamics, we often employ an experimental evolution approach in the lab using duckweed plants. Using high-throughput phenotyping and sequencing approaches we are able to track how plant and microbial populations evolve across various spatial and environmental contexts in real-time.
 

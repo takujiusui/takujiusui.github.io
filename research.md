@@ -4,7 +4,7 @@ title: Research
 order: 1
 ---
 
-![system](images/dw-system-wide-bw.jpg)
+![system](images/dw-system-wide-bw2.png)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui & Angert (2024) <i>Ecol. Lett.</i></a>
 </p></div>
 

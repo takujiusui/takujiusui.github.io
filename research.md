@@ -38,7 +38,7 @@ Ultimately, we seek to understand how competition and evolution interact across 
 
 <br>
 ![system](images/RA_Fig.png)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Testing local adaptation to warming range edges in competitive plant communities (from Usui & Angert, Science 2026)</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">How does competition alter evolutionary rescue at the warming range edge? (from <a href="https://www.science.org/doi/10.1126/science.ads4664">Usui & Angert (2026) <i>Science</i></a></p></div>
 
 ### Eco-evolutionary dynamics of plant-microbe interactions
 

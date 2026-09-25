@@ -9,7 +9,7 @@ feature_text: |
 
   <div class="home-text">
   
-    <h2>Eco-evolutionary dynamics of biodiversity change</h2>
+<h2>Eco-evolutionary dynamics of biodiversity change</h2>
 
     <p>Welcome!</p>
     

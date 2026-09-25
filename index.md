@@ -4,18 +4,27 @@ layout: page
 feature_text: |
   ## Usui Lab
 ---
-![rockclimb](images/rock-bw.png)
 
-I am an evolutionary ecologist. My research focuses on how ecological and evolutionary processes jointly shape species geographical distributions and community structure, particularly in an era of rapid global change.
+<div class="home-intro">
 
-I use a combination of experimental evolution, field work, and data synthesis approaches to test how the interaction and feedback between population genetics and ecology shapes: (1) limits and changes to species distributions; (2) spatio-temporal patterns of species coexistence; and (3) eco-evolutionary responses to warming in communities. My research integrates themes and frameworks from evolutionary biology, population ecology, and community ecology.
+  <div class="home-text">
+  
+    <h2>Eco-evolutionary dynamics of biodiversity change</h2>
 
-I am currently an Ecology & Evolutionary Biology Postdoctoral Fellow at the University of Toronto, working with [Megan Frederickson](http://mutualism.ca/) and [Stephen Wright](https://wright.eeb.utoronto.ca/). See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2026.pdf) for my CV.
+    <p>Welcome!</p>
+    
+    <p>Research in the Usui Lab focuses on how ecological and evolutionary processes together shape species distributions and community structure, particularly in an era of rapid global change.</p>
+    
+    <p>We value creative approaches to asking fundamental questions on how populations and communities are organized across space.</p>
+    
+    <p>This includes questions on what shapes a species geographical range and ecological niche, how species interact and assemble in communities, and on how global change is altering the ecological and evolutionary processes that structure patterns of biodiversity.</p>
+    
+    <p>We currently use a variety of approaches including experimental evolution in microcosms and mesocosms, field work, and data synthesis, with much of our work integrating ideas and frameworks at the interface of evolution, population ecology, and community ecology.</p>
+  
+  </div>
 
-&nbsp;
+  <div class="home-image">
+    <img src="/images/duck-micro.png" alt="Usui Lab">
+  </div>
 
-\*\*\* ***UPDATE:*** *I will be starting as an Assistant Professor at the [Department of Ecology & Evolutionary Biology at Yale University](https://eeb.yale.edu/) in 2027 and will be looking for students and postdocs. Please get in touch if interested, and stay tuned for more details soon!* \*\*\*
-
-&nbsp;
-
-Thank you for checking out my website!
+</div>

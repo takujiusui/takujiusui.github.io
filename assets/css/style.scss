@@ -84,3 +84,41 @@
     width: 100%;
   }
 }
+
+/* =========================
+   Homepage
+   ========================= */
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 50px;
+  margin-bottom: 40px;
+}
+
+.home-text {
+  flex: 1;
+}
+
+.home-image {
+  flex: 0 0 40%;
+}
+
+.home-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+  .home-intro {
+    flex-direction: column;
+  }
+
+  .home-image {
+    width: 100%;
+  }
+}

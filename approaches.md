@@ -15,11 +15,24 @@ We merge experiments with molecular work to link evolutionary mechanisms and pro
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Spatiotemporal dynamics of population spread across experimental landscapes</p></div>
 
 ### Experimental evolution
-To explore and manipulate evolutionary dynamics, we often employ an experimental evolution approach in the lab using duckweed plants. Using high-throughput phenotyping and sequencing approaches we are able to track how plant and microbial populations evolve across various spatial and environmental contexts in real-time.
 
-The rapid generation time of common duckweeds (2-7 days), the presence of naturally co-occurring and competing species, and the ease at which we can manipulate plant-associated microbes, also make this system highly suitable for experimental evolution work within a community of interacting species
+<div class="approach-section1">
 
-![labexperiments](images/lab-exp.png)
+  <div class="approach-text1">
+
+    <p>To explore and manipulate evolutionary dynamics, we often employ an experimental evolution approach in the lab using duckweed plants. Using high-throughput phenotyping and sequencing approaches we are able to track how plant and microbial populations evolve across various spatial and environmental contexts in real-time.</p>
+
+    <p>The rapid generation time of common duckweeds (2-7 days), the presence of naturally co-occurring and competing species, and the ease at which we can manipulate plant-associated microbes, also make this system highly suitable for experimental evolution work within a community of interacting species.</p>
+
+  </div>
+
+  <div class="approach-image1">
+
+    <img src="/images/og_track.gif" alt="Experimental evolution of duckweeds">
+
+  </div>
+
+</div>
 
 ### Microcosm and mesocosm experiments
 Conducting eco-evolutionary experiments at large geographical scales (e.g., across latitudinal or elevational ranges) in which we can replicate, manipulate, and track population, evolutionary, and community dynamics can be challenging and is unfeasible for many systems.
@@ -30,6 +43,8 @@ At Yale, we are also excited to establish outdoor mesocosm experiments at our ne
 
 ![mesoexperiments](images/meso.png)
 
+<br>
+
 ### Field experiments
 Experiments conducted in the lab and greenhouse are most powerful when connected to eco-evolutionary processes and patterns observed in natural communities.
 
@@ -38,6 +53,8 @@ In the field, we can use a variety of approaches (e.g., common gardens, reciproc
 Duckweeds, being a cosmopolitan plant for the most part, offer an exciting system to explore the ecological and molecular mechanisms behind how weedy (and often introduced/invasive) plants are able to withstand and thrive in a diverse range of ecological conditions ranging from rural to urban freshwater habitats.
 
 ![fieldduckexperiments](images/field-duck.png)
+
+<br>
 
 ### Meta-analysis and data synthesis
 Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., Usui et al. 2017 J. Anim. Ecol.) and spatial (e.g., Bontrager et al. 2021 Evol.) trends and elucidating their eco-evolutionary predictors.

@@ -3,6 +3,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
@@ -21,14 +22,15 @@
    ========================= */
 
 .biodiversity-heading {
-  font-family: "JetBrains Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
   font-weight: 500;
+  font-size: 35px !important;
 }
 
 .banner-themes,
 .banner-themes span {
-  font-family: "JetBrains Mono", monospace !important;
-  font-size: 12px !important;
+  font-family: "IBM Plex Mono", monospace !important;
+  font-size: 14px !important;
   font-weight: 400;
   color: dimgrey;
 }
@@ -46,7 +48,7 @@
 
 .home-image {
   flex: 0 0 50%;
-    margin-top: 0px;
+    margin-top: 30px;
 }
 
 .home-image img {

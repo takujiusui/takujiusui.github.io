@@ -298,7 +298,13 @@
    General
    ========================= */
 
-/* Bullet points */
-.bullet-heading::before {
-  content: "• ";
+.site-title {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+}
+
+.page-link {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 15px;
+  font-weight: 400;
 }

@@ -23,7 +23,8 @@
 
 .opportunities-image {
   flex: 0 0 30%;
-  margin-top: 2px;
+  margin-top: -50px;
+  margin-bottom: 0px;
 }
 
 .opportunities-image img {
@@ -62,8 +63,8 @@
 }
 
 .people-image {
-  flex: 0 0 40%;
-  margin-top: 50px;
+  flex: 0 0 35%;
+  margin-top: 30px;
 }
 
 .people-image img {
@@ -101,7 +102,8 @@
 }
 
 .home-image {
-  flex: 0 0 40%;
+  flex: 0 0 50%;
+    margin-top: 40px;
 }
 
 .home-image img {
@@ -124,9 +126,77 @@
 }
 
 /* =========================
+   Research page
+   ========================= */
+
+.research-section2,
+.research-columns3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 35px;
+  margin-bottom: 40px;
+}
+
+.research-text2,
+.research-text3 {
+  flex: 1;
+}
+
+.research-image2,
+.research-image3 {
+  flex: 0 0 50%;
+  margin-top: 45px;
+}
+
+.research-image3 {
+  margin-top: -70px;
+}
+
+.research-image2 img,
+.research-image3 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.research-caption2,
+.research-caption3 {
+  text-align: right;
+  font-size: 10pt;
+  color: DimGrey;
+  margin-top: 5px;
+}
+
+
+/* Spacing between research questions */
+
+.research-questions p {
+  margin-bottom: 5px !important;
+}
+
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+
+  .research-section2,
+  .research-columns3 {
+    flex-direction: column;
+  }
+
+  .research-image2,
+  .research-image3 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+}
+
+/* =========================
    Wider page content (def: 800)
    ========================= */
 
 .wrapper {
-  max-width: 800;
+  max-width: 900px;
 }

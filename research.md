@@ -4,7 +4,9 @@ title: Research
 order: 1
 ---
 
-### Species range dynamics under global change
+<h3 class="research-heading">
+  Species range dynamics under global change
+</h3>
 
 <div class="research-questions">
 
@@ -16,20 +18,23 @@ order: 1
 
 </div>
 
-<br>
-
 Understanding the ecological and evolutionary processes that shape species distributions and their limits is a fundamental goal of ecology, and an increasingly urgent one as global change rapidly reshapes species geographical ranges.
 
 Range expansion and contraction can drive rapid evolutionary changes in range-edge populations, and these evolutionary changes can in turn shape subsequent range dynamics through eco-evolutionary feedbacks. Predicting species range dynamics under global change therefore requires an understanding of how spatial eco-evolutionary processes unfold across moving populations and under changing environments.
 
 To explore these questions, we use a variety of experimental and molecular approaches in the lab and field, including experimental evolution of duckweeds in spatially structured microcosms, mesocosms, and ponds. Together, these approaches allow us to manipulate and track how populations move and evolve across space and in real-time (see [Approaches](/approaches/)).
 
-<br>
 <img src="/images/dw-system-wide.png" alt="Duckweed experimental system" style="width: 100%; height: 300px; object-fit: cover;">
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">How does evolution and temperature variation alter range expansion speed? From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui & Angert (2024) <i>Ecol. Lett.</i></a>
-</p></div>
 
-### Eco-evolutionary dynamics of competition and species coexistence
+<div class="research-caption1">
+      How does evolution and temperature variation alter range expansion speed? <Br> From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui & Angert (2024) <i>Ecol. Lett.</i></a>
+    </div>
+
+<br>
+
+<h3 class="research-heading">
+  Eco-evolutionary dynamics of competition and <br> species coexistence
+</h3>
 
 <div class="research-questions">
 
@@ -48,7 +53,7 @@ To explore these questions, we use a variety of experimental and molecular appro
     <img src="/images/RA_Fig.png" alt="Competition and evolutionary rescue">
 
     <div class="research-caption2">
-      How does competition alter evolutionary rescue at warming edges?<br>
+      How does competition alter adaptation at warming edges?<br>
       (from <a href="https://www.science.org/doi/10.1126/science.ads4664">Usui & Angert (2026) <i>Science</i></a>)
     </div>
 
@@ -66,7 +71,9 @@ To explore these questions, we use a variety of experimental and molecular appro
 
 </div>
 
-### Eco-evolutionary dynamics of plant-microbe interactions
+<h3 class="research-heading">
+  Eco-evolutionary dynamics of plant-microbe interactions
+</h3>
 
 <div class="research-questions">
 

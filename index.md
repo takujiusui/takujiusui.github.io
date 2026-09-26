@@ -5,7 +5,20 @@ feature_text: |
   ## Usui Lab
 ---
 
-## Eco-evolutionary dynamics of biodiversity change
+<h2 class="biodiversity-heading">
+  Eco-evolutionary dynamics of<br>
+  biodiversity change
+</h2>
+
+<div class="banner-themes">
+  <span>Species distributions</span>
+  <span>|</span>
+  <span>Species interactions</span>
+  <span>|</span>
+  <span>Global change</span>
+</div>
+
+<br>
 
 <div class="home-intro">
 

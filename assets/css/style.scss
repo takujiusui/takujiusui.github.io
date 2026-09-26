@@ -2,6 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap');
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -18,6 +20,19 @@
    Homepage
    ========================= */
 
+.biodiversity-heading {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+}
+
+.banner-themes,
+.banner-themes span {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 12px !important;
+  font-weight: 400;
+  color: dimgrey;
+}
+
 .home-intro {
   display: flex;
   align-items: flex-start;
@@ -31,7 +46,7 @@
 
 .home-image {
   flex: 0 0 50%;
-    margin-top: 40px;
+    margin-top: 0px;
 }
 
 .home-image img {

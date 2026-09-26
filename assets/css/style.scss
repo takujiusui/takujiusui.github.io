@@ -160,7 +160,12 @@
   display: block;
 }
 
-.research-caption2,
+.research-caption2 {
+  text-align: right;
+  font-size: 10pt;
+  color: DimGrey;
+  margin-top: 5px;
+}
 .research-caption3 {
   text-align: right;
   font-size: 10pt;

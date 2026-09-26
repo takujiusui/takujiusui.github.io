@@ -55,7 +55,7 @@ To explore these questions, we use a variety of experimental and molecular appro
   </div>
 
   <div class="research-text2">
-
+    
     <p>Species rarely experience environmental change in isolation. Instead, eco-evolutionary responses to environmental change occur within a community context where interacting and competing species have the potential to alter population, evolutionary, and community outcomes.</p>
 
     <p>Through merging experimental evolution with community ecology, our lab seeks to understand the reciprocal interactions between competition and evolution, asking: (1) when and how does competition alter evolutionary responses to environmental change? And, in turn, (2) how does evolution alter mechanisms of competition, species coexistence, and community assembly?</p>

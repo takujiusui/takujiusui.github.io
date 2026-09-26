@@ -5,7 +5,7 @@ feature_text: |
   ## Usui Lab
 ---
 
-### Eco-evolutionary dynamics of biodiversity change
+## Eco-evolutionary dynamics of biodiversity change
 
 <div class="home-intro">
 

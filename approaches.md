@@ -8,8 +8,9 @@ To answer foundational and contemporary questions at the intersection of ecology
 
 We merge experiments with molecular work to link evolutionary mechanisms and processes with ecological dynamics unfolding across populations and communities at a scale of hundreds of thousands of individual plants.
 
-![system](images/dw-collage.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental evolution of duckweed communities in the lab and greenhouse. Right: Duckweeds in Vancouver BC</p></div>
+<img src="/images/spread.gif" alt="Spatiotemporal dynamics of population spread" style="width: 100%; height: auto;">
+
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Spatiotemporal dynamics of population spread across experimental landscapes</p></div>
 
 ### Experimental evolution
 To explore and manipulate evolutionary dynamics, we often employ an experimental evolution approach in the lab using duckweed plants. Using high-throughput phenotyping and sequencing approaches we are able to track how plant and microbial populations evolve across various spatial and environmental contexts in real-time.
@@ -30,7 +31,7 @@ At Yale, we are also excited to establish outdoor mesocosm experiments at our ne
 ### Field experiments
 Experiments conducted in the lab and greenhouse are most powerful when connected to eco-evolutionary processes and patterns observed in natural communities.
 
-In the field, we use a variety of approaches (e.g., common gardens, reciprocal transplants, and community-level manipulations of plants and microbes) to understand how the eco-evolutionary dynamics of colonization, extinction, and community assembly play out in freshwater ecosystems.
+In the field, we can use a variety of approaches (e.g., common gardens, reciprocal transplants, and community-level manipulations of plants and microbes) to understand how the eco-evolutionary dynamics of colonization, extinction, and community assembly play out in freshwater ecosystems.
 
 Duckweeds, being a cosmopolitan plant for the most part, offer an exciting system to explore the ecological and molecular mechanisms behind how weedy (and often introduced/invasive) plants are able to withstand and thrive in a diverse range of ecological conditions ranging from rural to urban freshwater habitats.
 

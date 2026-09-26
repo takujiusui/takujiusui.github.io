@@ -7,83 +7,11 @@
   "minima/initialize";
 
 /* =========================
-   Opportunities page
+   Wider page content (def: 800)
    ========================= */
 
-.opportunities-intro {
-  display: flex;
-  align-items: flex-start;
-  gap: 40px;
-  margin-bottom: 40px;
-}
-
-.opportunities-text {
-  flex: 1;
-}
-
-.opportunities-image {
-  flex: 0 0 30%;
-  margin-top: -50px;
-  margin-bottom: 0px;
-}
-
-.opportunities-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-
-/* Stack the columns on smaller screens */
-
-@media screen and (max-width: 700px) {
-  .opportunities-intro {
-    flex-direction: column;
-  }
-
-  .opportunities-image {
-    width: 100%;
-  }
-}
-
-
-/* =========================
-   People page
-   ========================= */
-
-.people-intro {
-  display: flex;
-  align-items: flex-start;
-  gap: 40px;
-  margin-bottom: 0px;
-}
-
-.people-text {
-  flex: 1;
-}
-
-.people-image {
-  flex: 0 0 35%;
-  margin-top: -50px;
-}
-
-.people-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-
-/* Stack the columns on smaller screens */
-
-@media screen and (max-width: 700px) {
-  .people-intro {
-    flex-direction: column;
-  }
-
-  .people-image {
-    width: 100%;
-  }
+.wrapper {
+  max-width: 900px;
 }
 
 /* =========================
@@ -112,7 +40,6 @@
   display: block;
 }
 
-
 /* Stack the columns on smaller screens */
 
 @media screen and (max-width: 700px) {
@@ -128,6 +55,14 @@
 /* =========================
    Research page
    ========================= */
+
+/* Spacing between research questions */
+
+.research-questions p {
+  margin-bottom: 5px !important;
+}
+
+/* Sections */
 
 .research-section2,
 .research-columns3 {
@@ -173,14 +108,6 @@
   margin-top: 5px;
 }
 
-
-/* Spacing between research questions */
-
-.research-questions p {
-  margin-bottom: 5px !important;
-}
-
-
 /* Stack the columns on smaller screens */
 
 @media screen and (max-width: 700px) {
@@ -199,9 +126,78 @@
 }
 
 /* =========================
-   Wider page content (def: 800)
+   People page
    ========================= */
 
-.wrapper {
-  max-width: 900px;
+.people-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 0px;
+}
+
+.people-text {
+  flex: 1;
+}
+
+.people-image {
+  flex: 0 0 35%;
+  margin-top: -50px;
+}
+
+.people-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+  .people-intro {
+    flex-direction: column;
+  }
+
+  .people-image {
+    width: 100%;
+  }
+}
+
+/* =========================
+   Opportunities page
+   ========================= */
+
+.opportunities-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.opportunities-text {
+  flex: 1;
+}
+
+.opportunities-image {
+  flex: 0 0 30%;
+  margin-top: -50px;
+  margin-bottom: 0px;
+}
+
+.opportunities-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Stack the columns on smaller screens */
+
+@media screen and (max-width: 700px) {
+  .opportunities-intro {
+    flex-direction: column;
+  }
+
+  .opportunities-image {
+    width: 100%;
+  }
 }

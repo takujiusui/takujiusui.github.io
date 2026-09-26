@@ -4,9 +4,15 @@ title: Publications
 order: 3
 ---
 
+<h2 class="biodiversity-heading">
+  Publications
+</h2>
+
 For the latest publications, please check [Google Scholar](https://scholar.google.ca/citations?user=aGFgshoAAAAJ&hl=en). Please let me know if you would like a PDF of any articles. † = co-first authors; * = co-senior authors; ‡ undergraduate students
 
-### Pre-prints
+<h3 class="research-heading">
+  Pre-prints
+</h3>
 
 Urquhart, C.A., **Usui, T.**, Angert, A.L. & Williams, J.L. (2026)
 <br>[Eco-evolutionary dynamics are shaped by competition in experimental range expansions](https://www.biorxiv.org/content/10.64898/2026.06.01.729372v1). 
@@ -20,7 +26,9 @@ Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero
 <br>The role of biotic permeability in species range dynamics. 
 <br>*In revision*
 
-### Published
+<h3 class="research-heading">
+  Published
+</h3>
 
 **Usui, T.**†, Yu, J.†‡ & Frederickson, M.E. (2026) 
 <br>[For colonization success, should hosts and microbes travel alone, together, or swap partners along the way?](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71372)

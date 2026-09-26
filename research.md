@@ -4,6 +4,10 @@ title: Research
 order: 1
 ---
 
+<h2 class="biodiversity-heading">
+  Research themes
+</h2>
+
 <h3 class="research-heading">
   Species range dynamics under global change
 </h3>

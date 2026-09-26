@@ -4,7 +4,9 @@ layout: page
 order: 5
 ---
 
-### Join us!
+<h3 class="research-heading">
+  Join us!
+</h3>
 
 <div class="opportunities-intro">
 
@@ -24,8 +26,9 @@ order: 5
 
 </div>
 
-
-### Current openings
+<h3 class="research-heading">
+  Current openings
+</h3>
 
 The Usui Lab will open its doors at Yale EEB in January 2027! We are currently looking for a prospective **graduate student** (to start in September 2027; applications due December 1) and a **postdoctoral researcher** (to start anytime from January 2027).
 

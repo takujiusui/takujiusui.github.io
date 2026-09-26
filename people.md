@@ -4,7 +4,9 @@ layout: page
 order: 4
 ---
 
-### Takuji Usui
+<h3 class="research-heading">
+  Takuji Usui
+</h3>
 
 <div class="people-intro">
 

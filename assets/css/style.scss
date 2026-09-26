@@ -17,6 +17,7 @@
   max-width: 900px;
 }
 
+
 /* =========================
    Homepage
    ========================= */
@@ -290,4 +291,14 @@
   .opportunities-image {
     width: 100%;
   }
+}
+
+
+/* =========================
+   General
+   ========================= */
+
+/* Bullet points */
+.bullet-heading::before {
+  content: "• ";
 }

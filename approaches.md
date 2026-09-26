@@ -4,9 +4,9 @@ layout: page
 order: 2
 ---
 
-<h3 class="research-heading">
-  Empirical approaches
-</h3>
+<h2 class="biodiversity-heading">
+  Approaches
+</h2>
 
 To answer foundational and contemporary questions at the intersection of ecology and evolution, much of our work uses duckweeds (rapidly reproducing aquatic flowering plants) as model organisms in the lab and field. 
 

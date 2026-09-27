@@ -201,6 +201,29 @@
   display: block;
 }
 
+.approach-section2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 25px;
+  margin-bottom: 45px;
+}
+
+.approach-text2 {
+  flex: 1;
+}
+
+.approach-image2 {
+  flex: 0 0 30%;
+  margin-top: -50px;
+}
+
+.approach-image2 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Stack the columns on smaller screens */
 
 @media screen and (max-width: 700px) {
@@ -214,6 +237,14 @@
     margin-top: 20px;
   }
 
+   .approach-section2 {
+    flex-direction: column;
+  }
+
+  .approach-image2 {
+    width: 100%;
+    margin-top: 20px;
+  }
 }
 
 /* =========================

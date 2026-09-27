@@ -80,6 +80,20 @@ Duckweeds, being a cosmopolitan plant for the most part, offer an exciting syste
    Meta-analysis and data synthesis
 </h3>
 
-Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., [Usui et al. 2017 J. Anim. Ecol.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)) and spatial (e.g., [Bontrager et al. 2021 Evol.](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14231)) trends and elucidating their eco-evolutionary predictors.
+<div class="approach-section2">
 
-In collaboration with the Species Range Edge Dynamics (sRED) team, we are also currently involved in various projects using data synthesis approaches to understand the drivers of species geographical range limits and climate-induced range expansion (see [Usui et al. 2023 Trends Ecol Evol.](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8) for a review paper on the causes and consequences of plasticity at range-edges, which resulted from this collaboration).
+  <div class="approach-text2">
+
+    <p>Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612">Usui et al. 2017 <i>J. Anim. Ecol.</i></a>) and spatial (e.g., <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14231">Bontrager et al. 2021 <i>Evol.</i></a>) trends and elucidating their eco-evolutionary predictors.</p>
+
+    <p>In collaboration with the Species Range Edge Dynamics (sRED) team, we are also currently involved in various projects using data synthesis approaches to understand the drivers of species geographical range limits and climate-induced range expansion(see <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8">Usui et al. 2023 <i>Trends Ecol. Evol.</i></a> for a review paper on the causes and consequences of plasticity at range edges, which resulted from this collaboration).</p>
+
+  </div>
+
+  <div class="approach-image2">
+
+    <img src="/images/C_centralis.png" alt="C_centralis map">
+
+  </div>
+
+</div>

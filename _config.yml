@@ -13,7 +13,6 @@ minima:
 
    # generate social links in footer
    social_links:
-     bluesky: usuitakuji.bsky.social
      github:  takujiusui
 
 # Build settings

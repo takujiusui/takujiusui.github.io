@@ -80,6 +80,6 @@ Duckweeds, being a cosmopolitan plant for the most part, offer an exciting syste
    Meta-analysis and data synthesis
 </h3>
 
-Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., Usui et al. 2017 J. Anim. Ecol.) and spatial (e.g., Bontrager et al. 2021 Evol.) trends and elucidating their eco-evolutionary predictors.
+Meta-analyses in ecology and evolution can be a powerful tool for synthesizing overarching temporal (e.g., [Usui et al. 2017 J. Anim. Ecol.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12612)) and spatial (e.g., [Bontrager et al. 2021 Evol.](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14231)) trends and elucidating their eco-evolutionary predictors.
 
-In collaboration with the Species Range Edge Dynamics (sRED) team, we are also currently involved in various projects using data synthesis approaches to understand the drivers of species geographical range limits and climate-induced range expansion (see Usui et al. 2023 Trends Ecol Evol. for a review paper on the causes and consequences of plasticity at range-edges, which resulted from this collaboration).
+In collaboration with the Species Range Edge Dynamics (sRED) team, we are also currently involved in various projects using data synthesis approaches to understand the drivers of species geographical range limits and climate-induced range expansion (see [Usui et al. 2023 Trends Ecol Evol.](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00084-8) for a review paper on the causes and consequences of plasticity at range-edges, which resulted from this collaboration).

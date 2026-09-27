@@ -2,5 +2,7 @@
 
 <ul class="social-media-list">
   {%- if social.github -%}<li><a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg?v=2#github' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if social.scholar -%}<li><a href="{{ social.scholar }}" title="Google Scholar"><svg class="svg-icon icon-blue"><use xlink:href="{{ '/assets/minima-social-icons.svg?v=3#scholar' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if site.author.email -%}<li><a href="mailto:{{ site.author.email }}" title="Email"><svg class="svg-icon icon-green"><use xlink:href="{{ '/assets/minima-social-icons.svg?v=6#email' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.devto -%}<li><a href="https://dev.to/{{ social.devto | cgi_escape | escape }}" title="{{ social.devto | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#devto' | relative_url }}"></use></svg></a></li>{%- endif -%}
 </ul>

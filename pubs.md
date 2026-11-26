@@ -26,16 +26,16 @@ Urquhart, C.A., <strong>Usui, T.</strong>, Angert, A.L. & Williams, J.L. (2026) 
 
 </div>
 
-<div class="publication">
-
-Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., <strong>Usui, T.</strong>, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) <br>
-The role of biotic permeability in species range dynamics. <br> <i>In revision</i>
-
-</div>
-
 <h3 class="research-heading">
   Published
 </h3>
+
+<div class="publication">
+
+Marjakangas, E-L., Barreto, E., Borregaard, M.K., Chaikin, S., Carvajal-Quintero, J.D., Marshall, K.E., <strong>Usui, T.</strong>, Pires, M.M., Graham, C.H. & Lessard, J-P. (2026) <br> <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00267-3">
+The role of biotic permeability in species range dynamics</a>. <br> <i>Trends in Ecology & Evolution</i>, In Press
+
+</div>
 
 <div class="publication">
 
